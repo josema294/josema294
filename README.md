@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![pixelyo](/josema294/pixel.png)
+![pixelyo](https://raw.githubusercontent.com/josema294/josema294/main/pixel.png)
 
 # Hola a todos, soy Jose Maria Aranguren! 👋👋👋
 
