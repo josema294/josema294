@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **josema294/josema294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# Hola a todos, soy Jose Maria Aranguren!
+# Hola a todos, soy Jose Maria Aranguren! 👋👋👋
 
 Me llamo **Jose Maria** y aunque **estudie Administración y Dirección de Empresas** y nunca he estado ligado profesionalmente al mundo de la informática y tecnología siempre he sido un apasionado de este mundo. 
 
@@ -26,4 +26,33 @@ Tras muchos años trasteando con los ordenadores, haciendo de informático para 
 El mundo me gusto tanto que decidí dar un paso mas ¿Y si nos tomamos esto en serio y lo convertimos en tu profesión? Así fue como **en 2021 empece mis estudios** en el *grado superior de Desarrollo de Aplicaciones Multiplataforma* en el *centro profesional de la* ***Universidad Europea***, no es fácil compaginar el estudio con un trabajo a tiempo completo, pero cuando algo te apasiona es mas fácil superar las dificultades. 
 
 Hoy en día continuo formándome y aprendiendo con el objetivo de llegar a ser un gran profesional del sector, en **2023 habré terminado mis estudios** reglados y para entonces aunque seguiré al principio de camino, **confió en estar listo para aportar mucho valor** a todas las empresas y colaboradores que quieran colaborar conmigo.
+
+
+### Habilidades y lenguajes de prgramacion:  
+
+![Java](https://img.shields.io/badge/-Java-orange)
+![Python](https://img.shields.io/badge/-Python-informational)
+![JS](https://img.shields.io/badge/-JavaScript-yellow)  
+
+![HTML](https://img.shields.io/badge/-HTML-lightgrey)
+![CSS](https://img.shields.io/badge/-CCS-ff69b4)
+![SQL](https://img.shields.io/badge/-SQL-greem)  
+
+![XML](https://img.shields.io/badge/-XML-9cf)
+![Json](https://img.shields.io/badge/-Json-lightyellow)
+![Yaml](https://img.shields.io/badge/-Yaml-darkblue)  
+
+![VSCode](https://img.shields.io/badge/-VSCode-lightblue)
+![Linux](https://img.shields.io/badge/-Linux-critical)
+![wwindows](https://img.shields.io/badge/-windows-lightgrey)
+
+
+
+
+
+### Redes sociales y contacto:
+
+[Linkedin](https://www.linkedin.com/in/jose-maria-aranguren-080a70b3/)
+
+
 
