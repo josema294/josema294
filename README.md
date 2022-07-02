@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![pixelyo](/josema294/pixel.png)
 
 # Hola a todos, soy Jose Maria Aranguren! 👋👋👋
 
-Me llamo **Jose Maria** y aunque **estudie Administración y Dirección de Empresas** y nunca he estado ligado profesionalmente al mundo de la informática y tecnología siempre he sido un apasionado de este mundo. 
+Me llamo **Jose María** y aunque **estudié Administración y Dirección de Empresas** y nunca he estado ligado profesionalmente al mundo de la informática y tecnología siempre he sido un apasionado de este campo. 
 
-Tras muchos años trasteando con los ordenadores, haciendo de informático para amigos o familiares y en definitiva siempre probando cosas con las que poder aprender y saciar mi curiosidad, **en 2020 empece a consumir recursos serios sobre programación ademas de empezar a hacer mis primeros cursos**. 
+Tras muchos años trasteando con los ordenadores, haciendo de informático para amigos o familiares y en definitiva siempre probando cosas con las que poder aprender y saciar mi curiosidad, **en 2020 empece a consumir recursos serios sobre programación ademas de comenzar a hacer mis primeros cursos**. 
 
-El mundo me gusto tanto que decidí dar un paso mas ¿Y si nos tomamos esto en serio y lo convertimos en tu profesión? Así fue como **en 2021 empece mis estudios** en el *grado superior de Desarrollo de Aplicaciones Multiplataforma* en el *centro profesional de la* ***Universidad Europea***, no es fácil compaginar el estudio con un trabajo a tiempo completo, pero cuando algo te apasiona es mas fácil superar las dificultades. 
+Me gusto tanto que decidí dar un paso más ¿Y si nos tomamos esto en serio y lo convertimos en tu profesión? Así fue como **en 2021 empece mis estudios** en el *grado superior de Desarrollo de Aplicaciones Multiplataforma* en el *centro profesional de la* ***Universidad Europea***, no es fácil compaginar el estudio con un trabajo a tiempo completo, pero cuando algo te apasiona es más fácil superar las dificultades. 
 
 Hoy en día continuo formándome y aprendiendo con el objetivo de llegar a ser un gran profesional del sector, en **2023 habré terminado mis estudios** reglados y para entonces aunque seguiré al principio de camino, **confió en estar listo para aportar mucho valor** a todas las empresas y colaboradores que quieran colaborar conmigo.
 
@@ -53,6 +53,8 @@ Hoy en día continuo formándome y aprendiendo con el objetivo de llegar a ser u
 ### Redes sociales y contacto:
 
 [Linkedin](https://www.linkedin.com/in/jose-maria-aranguren-080a70b3/)
+
+
 
 
 
