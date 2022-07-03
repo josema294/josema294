@@ -28,7 +28,7 @@ Me gusto tanto que decidí dar un paso más ¿Y si nos tomamos esto en serio y l
 Hoy en día continuo formándome y aprendiendo con el objetivo de llegar a ser un gran profesional del sector, en **2023 habré terminado mis estudios** reglados y para entonces aunque seguiré al principio del camino, **confió en estar listo para aportar mucho valor** a todas las empresas y colaboradores que quieran trabajar conmigo.
 
 
-### Habilidades y lenguajes de prgramacion:  
+### Habilidades y lenguajes de programacion:  
 
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![Python](https://img.shields.io/badge/-Python-informational)
