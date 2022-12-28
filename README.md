@@ -32,7 +32,7 @@ Hoy en día continuo formándome y aprendiendo con el objetivo de llegar a ser u
 
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![Python](https://img.shields.io/badge/-Python-informational)
-![JS](https://img.shields.io/badge/-JavaScript-yellow)  
+![JS](https://img.shields.io/badge/-Kotlin-green)  
 
 ![HTML](https://img.shields.io/badge/-HTML-lightgrey)
 ![CSS](https://img.shields.io/badge/-CCS-ff69b4)
